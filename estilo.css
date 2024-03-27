@@ -1,0 +1,74 @@
+body{
+  text-align: center;
+  background-image: url("file:///C:/Users/USUARIO/Documents/eu/PROGRAMA%C3%87%C3%83O/design/minimalism-abstraction_3840x2160_xtrafondos.com.jpg" );
+ 
+  
+ 
+}
+.pai{
+  justify-content: space-between;
+  align-items: center;
+  Display: flex;
+  width: 1024px; 
+  height: 600px;
+  padding: 100px;
+  border-radius: 35px;
+  background-size:  cover;
+  background-repeat: no-repeat;
+  background-image: url("https://img.freepik.com/fotos-premium/pincel-de-maquiagem-com-fundo-de-po-colorido-ai-gerado_848885-127.jpg" );
+  box-shadow: 2px 2px 5px black;
+  margin: 0 auto;
+  }
+ 
+  .filho1{
+  width:  150px; 
+  height: 150px; 
+  padding:  50px;
+  background-color: palevioletred;
+  border-radius: 35px;
+  }
+
+  .filho2{
+  width:  150px; 
+  height: 150px;
+  padding:  50px;
+  background-color: pink;
+  border-radius: 35px;
+  }
+  .filho3{
+  width:  150px; 
+  height: 150px; 
+  padding:  50px;
+  background-color: plum;
+  border-radius: 35px;
+  }
+  .filho4{
+  width:  150px; 
+  height: 150px;
+  padding:  50px;
+  background-color: burlywood;
+  border-radius: 35px;
+
+  }
+  
+  .filho1:hover{
+  background-size:  cover;
+  background-repeat: no-repeat;
+  background-image: url("https://i.pinimg.com/564x/21/2d/a0/212da0ee11105090d98fd774fdfac060.jpg" )
+
+}
+  .filho2:hover{
+  background-size:  cover;
+  background-repeat: no-repeat;
+  background-image: url("https://www.maybelline.com.br/~/media/mny/br/artigos/2023/maquiagem-com-lapis-de-olho/maquiagem-com-lapis-de-olho.jpg" )
+}
+  .filho3:hover{
+  background-size:  cover;
+  background-repeat: no-repeat;
+  background-image: url("https://a-static.mlcdn.com.br/450x450/kit-maleta-maquiagem-profissional-base-matte-sombras-bz120-bazar-na-web/bazarnaweb/769114496/959040f7a4f87a44cda2841a22438c24.jpeg" )
+}
+  .filho4:hover{
+  background-size:  cover;
+  background-repeat: no-repeat;
+  background-image: url("https://acdn.mitiendanube.com/stores/001/428/140/products/img_41601-a10fe33bdd2778705816882622307860-1024-1024.jpeg" )
+}
